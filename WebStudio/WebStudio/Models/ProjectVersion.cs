@@ -4,12 +4,12 @@ namespace WebStudio.Classes
 {
     public class ProjectVersion
     {
-        public Date validFrom { get; set; }
-        public Date validUntil { get; set; }
+        public DateTime validFrom { get; set; }
+        public DateTime validUntil { get; set; }
         public string project_directory { get; set; }
         public virtual ICollection<Feature> used_feature_list { get; set; }
 
-        public ProjectVersion(Date validFrom, Date validUntil, string project_directory, ICollection<Feature> used_feature_list)
+        public ProjectVersion(DateTime validFrom, DateTime validUntil, string project_directory, ICollection<Feature> used_feature_list)
         {
             this.validFrom = validFrom;
             this.validUntil = validUntil;

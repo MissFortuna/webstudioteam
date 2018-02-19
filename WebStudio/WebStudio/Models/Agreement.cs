@@ -9,10 +9,10 @@ namespace WebStudio.Classes
         public int tlead_id { get; set; }
         public int project_id { get; set; }
         public int budget { get; set; }
-        public Date date { get; set; }
-        public Date deadline { get; set; }
+        public DateTime date { get; set; }
+        public DateTime deadline { get; set; }
 
-        public Agreement(int agreeement_id, int client_id, int tlead_id, int project_id, int budget, Date date, Date deadline)
+        public Agreement(int agreeement_id, int client_id, int tlead_id, int project_id, int budget, DateTime date, DateTime deadline)
         {
             this.agreeement_id = agreeement_id;
             this.client_id = client_id;

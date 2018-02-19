@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\WebStudio",
-    "\\WebStudio\\Models"
+    "\\WebStudio\\Models",
+    "\\WebStudio\\Models\\Actors"
   ],
-  "SelectedNode": "\\WebStudio\\Models\\ProjectVersion.cs",
+  "SelectedNode": "\\WebStudio.sln",
   "PreviewInSolutionExplorer": false
 }

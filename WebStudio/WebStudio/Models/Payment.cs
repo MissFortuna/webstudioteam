@@ -10,9 +10,9 @@ namespace WebStudio.Classes
         public int client_id { get; set; }
         public int agreeement_id { get; set; }
         public int sum { get; set; }
-        public Date date { get; set; }
+        public DateTime date { get; set; }
 
-        public Payment(int client_id, int agreeement_id, int sum, Date date)
+        public Payment(int client_id, int agreeement_id, int sum, DateTime date)
         {
             this.client_id = client_id;
             this.agreeement_id = agreeement_id;
