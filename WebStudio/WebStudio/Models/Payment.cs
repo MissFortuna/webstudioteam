@@ -1,6 +1,30 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 
-public class Payment
+namespace WebStudio.Classes
 {
-	
+    public class Payment
+    {
+        public int client_id { get; set; }
+        public int agreeement_id { get; set; }
+        public int sum { get; set; }
+        public Date date { get; set; }
+
+        public Payment(int client_id, int agreeement_id, int sum, Date date)
+        {
+            this.client_id = client_id;
+            this.agreeement_id = agreeement_id;
+            this.sum = sum;
+            this.date = date;
+        }
+        
+        //TODO:
+        public int calculateBudget(Agreement agreement, Project project)
+        {
+            throw new NotImplementedException();
+        }
+
+    }
 }
