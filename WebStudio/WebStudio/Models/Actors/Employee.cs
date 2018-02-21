@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace WebStudio.Classes
 {
-    interface Employee
+    public class Employee
     {
-        int id { get; set; }
-        string name { get; set; }
-        string position { get; }
-        int salary { get; set; }
+        public string id { get; set; }
+        public string name { get; set; }
+        public string position { get; set; }
+        public int hourCost { get; set; }
     }
 }

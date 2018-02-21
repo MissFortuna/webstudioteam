@@ -9,6 +9,8 @@ namespace WebStudio.Classes
     {
         public Leader team_leader { get; set; }
         public virtual ICollection<Developer> project_team { get; set; }
+        public virtual ICollection<Project> projects { get; set; }
+
 
         public Team(Leader team_leader, ICollection<Developer> project_team)
         {
@@ -24,7 +26,7 @@ namespace WebStudio.Classes
         //TODO:
         public ICollection<Project> getProjectWorkedOn()
         {
-            throw new NotImplementedException();
+            return this.projects;
         }
     }
 }

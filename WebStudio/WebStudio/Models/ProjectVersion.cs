@@ -1,20 +1,28 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace WebStudio.Classes
 {
     public class ProjectVersion
     {
+        public string version_id { get; set; }
         public DateTime validFrom { get; set; }
         public DateTime validUntil { get; set; }
-        public string project_directory { get; set; }
-        public virtual ICollection<Feature> used_feature_list { get; set; }
+        public string projectDirectory { get; set; }
+        public virtual ICollection<Feature> realizedFeaturesList { get; set; }
 
-        public ProjectVersion(DateTime validFrom, DateTime validUntil, string project_directory, ICollection<Feature> used_feature_list)
+        //TODO: id
+        public ProjectVersion(DateTime validFrom, DateTime validUntil, string projectDirectory, ICollection<Feature> realizedFeaturesList)
         {
             this.validFrom = validFrom;
             this.validUntil = validUntil;
-            this.project_directory = project_directory;
-            this.used_feature_list = used_feature_list;
+            this.projectDirectory = projectDirectory;
+            this.realizedFeaturesList = realizedFeaturesList;
+        }
+
+        public void addUsedFeature(Feature feature)
+        {
+            this.realizedFeaturesList.Add(feature);
         }
     }
 }

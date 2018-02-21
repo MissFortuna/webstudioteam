@@ -4,17 +4,13 @@ namespace WebStudio.Classes
 {
     public class Leader : Employee
     {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string position { get; }
-        public int salary { get; set; }
-
-        public Leader(int id, string name, int salary)
+        //TODO: id
+        public Leader(string name, int hourCost)
         {
-            this.id = id;
-            this.name = name;
+            //       this.id = id;
+            base.name = name;
             position = "Leader";
-            this.salary = salary;
+            base.hourCost = hourCost;
         }
 
     }

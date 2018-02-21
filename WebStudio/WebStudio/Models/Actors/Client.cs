@@ -7,15 +7,14 @@ namespace WebStudio.Classes
 {
     public class Client
     {
-        public int client_id { get; set; }
+        public string client_id { get; set; }
         public string client_name { get; set; }
-        public string address { get; set; }
 
-        public Client(int client_id, string client_name,string address)
+        //TODO: id
+        public Client(string client_name)
         {
-            this.client_id = client_id;
+            //    client_id = client_id;
             this.client_name = client_name;
-            this.address = address;
         }
     }
 }

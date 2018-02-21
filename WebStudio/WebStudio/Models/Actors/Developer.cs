@@ -4,21 +4,17 @@ namespace WebStudio.Classes
 {
     public class Developer : Employee
     {
-        public int id { get; set; }
-        public string name { get; set; }
-        public string position { get; }
-        public int salary { get; set; }
-
-        public Developer(int id, string name, int salary)
+        //TODO: id
+        public Developer(string name, int hourCost)
         {
-            this.id = id;
-            this.name = name;
-            this.position = "Developer";
-            this.salary = salary;
+            base.name = name;
+            base.position = "Developer";
+            base.hourCost = hourCost;
+            //        base.id
         }
 
         //TODO:
-        public void workOnFeature(int feature_id, int workHours)
+        public void workedOnFeature(int feature_id, int workHours)
         {
             throw new NotImplementedException();
         }
