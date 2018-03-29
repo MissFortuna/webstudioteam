@@ -1,0 +1,280 @@
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll.config
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Approg3_lab.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\EntityFramework.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Web.Infrastructure.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Owin.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Razor.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\WebGrease.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.Razor.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\EntityFramework.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll.config
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Approg3_lab.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Web.Infrastructure.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Owin.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Razor.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\WebGrease.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Razor.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.pdb
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.dll
+D:\naukma_2014_2015\2013_2014\appprog\labs_1-5\lab_3_2016\Begin_code\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.pdb
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll.config
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Approg3_lab.pdb
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Owin.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Razor.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\WebGrease.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.Razor.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.pdb
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csprojResolveAssemblyReference.cache
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csproj.CoreCompileInputs.cache
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.dll
+C:\Users\Zimme\source\repos\Begin_code\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.pdb
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll.config
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Approg3_lab.pdb
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\EntityFramework.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Owin.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\WebGrease.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\EntityFramework.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csproj.CopyComplete
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.dll
+C:\Users\User\Downloads\Tsimura_Approg3_lab\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.pdb
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll.config
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Approg3_lab.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Approg3_lab.pdb
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\EntityFramework.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Owin.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\WebGrease.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\EntityFramework.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.csproj.CopyComplete
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.dll
+C:\Users\User\Downloads\Прикладне програмування Практики\Проект\Approg3_lab\Approg3_lab\obj\Debug\Approg3_lab.pdb
