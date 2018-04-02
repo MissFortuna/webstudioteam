@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace WebStudio.Controllers
+namespace CSharp_Net_module3_1_1_lab.Controllers
 {
     public class HomeController : Controller
     {
@@ -13,16 +13,23 @@ namespace WebStudio.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Income()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your income description page.";
 
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Calculator()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your calculator.";
+
+            return View();
+        }
+
+        public ActionResult Vacations()
+        {
+            ViewBag.Message = "Your vacations page.";
 
             return View();
         }
